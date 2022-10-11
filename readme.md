@@ -44,7 +44,7 @@
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Masouma&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Masouma" />
  
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masouma&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Masouma" /> 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=masouma-modarresi&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Masouma" /> 
 </p>
 
 <!----------------------------------- Social Media Links Section ---------------------------------->
