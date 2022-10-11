@@ -30,6 +30,9 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Flow" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
  
 </p>
 <br>
@@ -38,60 +41,14 @@
 
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
-### <h1 align="center">Abilities 🦾</h1>
-<br>
-<table align="center">
-  <tbody>
-    <tr valign="center">
-      <td width="120px" align="center">
-        <span><strong>CSS</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Html 5</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Git Flow</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Git</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Boostrap</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
-      </td>
-   </tr>
-  </tbody>
- </table>
- <br>
- <table align="center">
-   <tbody>
-   <tr valign="center">
-      <td width="120px" align="center">
-        <span><strong>Sass</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Vs Code</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>JavaScript</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Webpack</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/w/31/webpack.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<br>
-<br>
 
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masouma-modarresi&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="Masouma" />
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=masouma-modarresi&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Masouma" />
+ 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=masouma-modarresi&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Masouma" /> 
+</p>
 
 <!----------------------------------- Social Media Links Section ---------------------------------->
 
