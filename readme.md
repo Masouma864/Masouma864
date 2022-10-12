@@ -45,11 +45,11 @@
 <p align="center">
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masouma-modarresi&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="Masouma" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Masouma864&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="Masouma" />
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=masouma-modarresi&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Masouma" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Masouma864&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Masouma" />
  
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=masouma-modarresi&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Masouma" /> 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masouma864&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Masouma" /> 
 </p>
 
 <!----------------------------------- Social Media Links Section ---------------------------------->
