@@ -10,7 +10,7 @@
 
 <h3>I am a passionate software developer who enjoys working on all kinds of tech.</h3>
 
-- I’m currently available for new job opportunities
+- ✨I’m currently available for new job opportunities
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
