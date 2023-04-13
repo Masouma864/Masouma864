@@ -34,9 +34,11 @@
 <h2><i>My GitHub Status</i></h2>
 <p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cakeintech&" alt="cakeintech" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cakeintech&show_icons=true&locale=en" alt="cakeintech" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cakeintech&show_icons=true&locale=en&layout=compact" alt="cakeintech" /></p>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Masouma864&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="Masouma" />
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Masouma864&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Masouma" />
+
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masouma864&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Masouma" /> 
 
 <!----------------------------------- Social Media Links Section ---------------------------------->
 
@@ -45,12 +47,13 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/masouma-modarresi/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/joseph-irirwanirira-74666623a" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/masouma-modarresi/" />
     </a>
     <a href="https://twitter.com/hasina389">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Irirwanirira" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/hasina389" />
     <a title="Masouma Modarresi" href="masouma2020@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="irijoseph41@gmail.com" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="masouma2020@gmail.com
+                                                                                                                                " />
     </a>
 </p>
 <br>
