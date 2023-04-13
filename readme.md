@@ -2,14 +2,13 @@
  <!---------------------------------- Heading Section ------------------------------->
 <h1 align="center">
     <a href="#">Hi, I'm Masouma Modarresi!!!</a>
-    <h3 align="center">A passionate frontend developer from Ethiopia</h3>
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
 <!----------------------------- About Section -------------------------------->
 
 
-<h3>I am a passionate software developer who enjoys working on all kinds of tech.</h3>
+<h3>I am a passionate frontend developer who enjoys working on all kinds of tech.</h3>
 
 - ✨ I’m currently available for new job opportunities**
 
@@ -35,11 +34,9 @@
 <h2><i>My GitHub Status</i></h2>
 <p align="center">
 
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Masouma864&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="Masouma" />
- 
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masouma864&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Masouma" /> 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cakeintech&" alt="cakeintech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cakeintech&show_icons=true&locale=en" alt="cakeintech" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cakeintech&show_icons=true&locale=en&layout=compact" alt="cakeintech" /></p>
 
 <!----------------------------------- Social Media Links Section ---------------------------------->
 
